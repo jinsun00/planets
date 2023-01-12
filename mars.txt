@@ -6,3 +6,5 @@ jmw388: adding to mars
 jmw388 adding once again -hello!
 
 jinsun00: hope I can remember what we learned at least next day
+
+adding from Rstudio
